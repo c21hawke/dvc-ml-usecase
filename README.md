@@ -1,5 +1,5 @@
 ## Workflow
-<img src="https://github.com/chandrareddytiyyagura/dvc-ml-usecase/blob/main/others/images/simple-workflow.png" alt="workflow" widht="70%">
+<img src="https://github.com/chandrareddytiyyagura/dvc-ml-usecase/blob/main/others/images/simple-workflow.png" alt="workflow" widht="70%" height="60%">
 
 # Steps:
 
