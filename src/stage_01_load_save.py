@@ -24,6 +24,7 @@ def get_data(config_path):
 
     raw_local_file_path = os.path.join(raw_local_dir_path,raw_local_file)
 
+    df.to_csv(raw_local_file_path,sep=',',index=False)
 
 if __name__ == "__main__":
     args = argparse.ArgumentParser()
