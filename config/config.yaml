@@ -4,3 +4,4 @@ artifacts:
   artifacts_dir: artifacts
   raw_local_dir: raw_local_dir
   raw_loacl_file: data.csv
+  
